@@ -1,11 +1,11 @@
 
 👋 Hi, I’m @redwanshahriarshubho
 
-👀 I’m interested in technology, AI, and developing scalable software solutions.
+👀 I’m interested in 
 
-🌱 I’m currently learning Flutter Python, and Dart
-
-💞️ I’m looking to collaborate on innovative projects that combine AI with practical applications, such as nutrition apps and full-stack web solutions.
+🌱 I’m currently learning HTML,CSS,Tailwind,JavaScript,React,Firebase,Node JS,
+Express JS and MongoDB
+💞️  I’m looking to collaborate on innovative projects that integrate AI with real-world use cases, especially in full-stack web development.
 
 📫 How to reach me: redwanshahriarshubho.1789@gmail.com
 
