@@ -68,10 +68,7 @@
   <a href="https://www.linkedin.com/in/redwan-shahriar-shubho-799532240/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/Shubho_17" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-black?logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:redwanshahriarshubho.1789@gmail.com">
+ <a href="mailto:redwanshahriarshubho.1789@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" />
   </a>
 </p>
