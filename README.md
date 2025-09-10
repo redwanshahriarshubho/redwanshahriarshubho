@@ -14,10 +14,10 @@
 
 ## 👋 About Me
 
-I’m **Redwan Shahriar Shubho** (@redwanshahriar), a Computer Science and Engineering student at **North South University**, Dhaka, Bangladesh. I’m passionate about leveraging **AI**, **full-stack development**, and **mobile app development** to solve real-world problems. My goal is to build scalable, impactful software solutions that drive innovation.
+I’m **Redwan Shahriar Shubho** a Computer Science and Engineering student at **North South University**, Dhaka, Bangladesh. I’m passionate about leveraging **AI**, **full-stack development**, and **mobile app development** to solve real-world problems. My goal is to build scalable, impactful software solutions that drive innovation.
 
-- 🌟 **Interests**: Artificial Intelligence, Web Development, Mobile Apps, System Design
-- 🌱 **Currently Learning**: Flutter, Dart, Python, FastAPI, Cloud Technologies
+- 🌟 **Interests**: Artificial Intelligence, Web Development, Mobile Apps,System Design
+- 🌱 **Currently Learning**: Flutter, Dart, Python, FastAPI,Cloud Technologies
 - 💬 **Ask Me About**: MERN Stack, Flutter, Python, Git, WebSockets, API Development
 - 📫 **Email**: [redwanshahriar.1789@gmail.com](mailto:redwanshahriar.1789@gmail.com)
 - ⚡ **Fun Fact**: When not coding, I enjoy exploring music and diving into tech blogs.
@@ -87,5 +87,5 @@ I’m **Redwan Shahriar Shubho** (@redwanshahriar), a Computer Science and Engin
 ---
 
 <div align="center">
-  <em>This README reflects my latest contributions and projects as of September 2025. You can manually pin your top 4 repositories on GitHub to showcase your projects.</em>
+  <em>This README reflects my latest contributions and projects as of September 2025.</em>
 </div>
