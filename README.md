@@ -19,7 +19,7 @@ I’m **Redwan Shahriar Shubho** a Computer Science and Engineering student at *
 - 🌟 **Interests**: Artificial Intelligence, Web Development, Mobile Apps,System Design
 - 🌱 **Currently Learning**: Flutter, Dart, Python, FastAPI,Cloud Technologies
 - 💬 **Ask Me About**: MERN Stack, Flutter, Python, Git, WebSockets, API Development
-- 📫 **Email**: [redwanshahriar.1789@gmail.com](mailto:redwanshahriar.1789@gmail.com)
+- 📫 **Email**: [redwanshahriarshubho.1789@gmail.com](mailto:redwanshahriarshubho.1789@gmail.com)
 - ⚡ **Fun Fact**: When not coding, I enjoy exploring music and diving into tech blogs.
 
 ---
