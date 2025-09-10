@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-  🎓 CSE Student at **North South University**, Dhaka 🇧🇩 • 🔭 MERN Stack & Flutter Developer • 💡 AI Enthusiast
+  🎓 CSE Student at <strong>North South University</strong>, Dhaka 🇧🇩 • 🔭 MERN Stack & Flutter Developer • 💡 AI & Full-Stack Enthusiast
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 - Passionate about **Full-Stack Development**, **AI**, and **real-world problem solving**  
-- Experienced in building **web & mobile apps** with **MERN Stack**, **Flutter**, **FastAPI**  
-- Learning **WebSockets**, **Firebase**, and advanced Python  
+- Experienced in building **web & mobile apps** with **MERN Stack**, **Flutter**, and **FastAPI**  
+- Continuously learning **WebSockets**, **Firebase**, and advanced Python techniques  
 - 📬 Reach me: [redwanshahriarshubho.1789@gmail.com](mailto:redwanshahriarshubho.1789@gmail.com)  
 
 ---
@@ -39,19 +39,6 @@
 
 ---
 
-## 📂 Projects (2023–2025)
-
-| Project | Tech Stack | Link |
-|---------|-----------|------|
-| **Health Nourish App** | Flutter, FastAPI | [Repo](https://github.com/redwanshahriarshubho/Health-Nourish) |
-| **Interactive Task Manager** | HTML, CSS, JS, Tailwind | [Repo](https://github.com/redwanshahriarshubho/Interactive-Task-Manager) |
-| **AI Speech Recognition** | Python, FastAPI | [Repo](https://github.com/redwanshahriarshubho/Speech-Recognition) |
-| **E-commerce Chatbot** | Flutter, FastAPI | [Repo](https://github.com/redwanshahriarshubho/YourEcommerceProject) |
-
-> You can organize more projects by year in repo names/folders.
-
----
-
 ## 📊 GitHub Stats & Top Languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
@@ -61,17 +48,22 @@
 
 ## 📅 Activity by Year
 
+| Year | View |
+|------|------|
+| 2023–2024 | Click to expand |
+| 2025      | Click to expand |
+
 <details>
 <summary>2023–2024 Activity</summary>
 
-[![2023-24 Activity Graph](https://activity-graph.herokuapp.com/graph?username=redwanshahriarshubho&theme=react-dark&from=2023-01-01&to=2024-12-31)](https://github.com/redwanshahriarshubho)
+![2023-24 Activity Graph](https://activity-graph.herokuapp.com/graph?username=redwanshahriarshubho&theme=react-dark&from=2023-01-01&to=2024-12-31)
 
 </details>
 
 <details>
 <summary>2025 Activity</summary>
 
-[![2025 Activity Graph](https://activity-graph.herokuapp.com/graph?username=redwanshahriarshubho&theme=react-dark&from=2025-01-01&to=2025-12-31)](https://github.com/redwanshahriarshubho)
+![2025 Activity Graph](https://activity-graph.herokuapp.com/graph?username=redwanshahriarshubho&theme=react-dark&from=2025-01-01&to=2025-12-31)
 
 </details>
 
@@ -92,4 +84,4 @@
 
 ---
 
-> ⚙️ *This README reflects my latest tech journey, contributions, and activity by year.*
+> ⚙️ *This README reflects my tech journey, contributions, and GitHub activity by year in a professional, portfolio-ready layout.*
