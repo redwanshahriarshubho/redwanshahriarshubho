@@ -39,22 +39,41 @@
 
 ---
 
-## 📂 Projects (2023–2024)
+## 📂 Projects (2023–2025)
 
-| Project | Tech Stack | Description | Link |
-|---------|-----------|-------------|------|
-| **Health Nourish App** | Flutter, Dart, FastAPI | AI-driven food nutrition & meal planning app | [Repo](https://github.com/redwanshahriarshubho/Health-Nourish) |
-| **Interactive Task Manager** | HTML, CSS, JS, Tailwind | Task management web app with drag-and-drop | [Repo](https://github.com/redwanshahriarshubho/Interactive-Task-Manager) |
-| **AI Speech Recognition** | Python, FastAPI | Speech-to-text AI model with web integration | [Repo](https://github.com/redwanshahriarshubho/Speech-Recognition) |
-| **E-commerce Chatbot** | Flutter, FastAPI | AI chatbot integrated into e-commerce platform | [Repo](https://github.com/redwanshahriarshubho/YourEcommerceProject) |
+| Project | Tech Stack | Link |
+|---------|-----------|------|
+| **Health Nourish App** | Flutter, FastAPI | [Repo](https://github.com/redwanshahriarshubho/Health-Nourish) |
+| **Interactive Task Manager** | HTML, CSS, JS, Tailwind | [Repo](https://github.com/redwanshahriarshubho/Interactive-Task-Manager) |
+| **AI Speech Recognition** | Python, FastAPI | [Repo](https://github.com/redwanshahriarshubho/Speech-Recognition) |
+| **E-commerce Chatbot** | Flutter, FastAPI | [Repo](https://github.com/redwanshahriarshubho/YourEcommerceProject) |
 
-> Add more 2023–2024 projects here
+> You can organize more projects by year in repo names/folders.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Top Languages
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+---
+
+## 📅 Activity by Year
+
+<details>
+<summary>2023–2024 Activity</summary>
+
+[![2023-24 Activity Graph](https://activity-graph.herokuapp.com/graph?username=redwanshahriarshubho&theme=react-dark&from=2023-01-01&to=2024-12-31)](https://github.com/redwanshahriarshubho)
+
+</details>
+
+<details>
+<summary>2025 Activity</summary>
+
+[![2025 Activity Graph](https://activity-graph.herokuapp.com/graph?username=redwanshahriarshubho&theme=react-dark&from=2025-01-01&to=2025-12-31)](https://github.com/redwanshahriarshubho)
+
+</details>
 
 ---
 
@@ -73,4 +92,4 @@
 
 ---
 
-> ⚙️ *This README reflects my latest tech journey, 2023–2024 projects, and open-source contributions.*
+> ⚙️ *This README reflects my latest tech journey, contributions, and activity by year.*
