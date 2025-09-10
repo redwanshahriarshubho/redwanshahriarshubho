@@ -64,8 +64,7 @@ I’m **Redwan Shahriar Shubho** a Computer Science and Engineering student at *
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Languages" style="border-radius: 8px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
 
-  <!-- Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=redwanshahriarshubho&theme=react-dark" alt="GitHub Activity Graph" style="border-radius: 8px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+
 
 </div>
 
