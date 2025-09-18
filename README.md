@@ -6,6 +6,7 @@
 <p align="center">
   <a href="#about-me">About Me</a> •
   <a href="#tech-stack">Tech Stack</a> •
+  <a href="#achievements">Achievements</a> •
   <a href="#github-stats">GitHub Stats</a> •
   <a href="#connect-with-me">Connect</a>
 </p>
@@ -14,10 +15,10 @@
 
 ## 👋 About Me
 
-I’m **Redwan Shahriar Shubho** a Computer Science and Engineering student at **North South University**, Dhaka, Bangladesh. I’m passionate about leveraging **AI**, **full-stack development**, and **mobile app development** to solve real-world problems. My goal is to build scalable, impactful software solutions that drive innovation.
+I'm **Redwan Shahriar Shubho**, a Computer Science and Engineering student at **North South University**, Dhaka, Bangladesh. I'm passionate about leveraging **AI**, **full-stack development**, and **mobile app development** to solve real-world problems. My goal is to build scalable, impactful software solutions that drive innovation.
 
-- 🌟 **Interests**: Artificial Intelligence, Web Development, Mobile Apps,System Design
-- 🌱 **Currently Learning**: Flutter, Dart, Python, FastAPI,Cloud Technologies
+- 🌟 **Interests**: Artificial Intelligence, Web Development, Mobile Apps, System Design
+- 🌱 **Currently Learning**: Flutter, Dart, Python, FastAPI, Cloud Technologies
 - 💬 **Ask Me About**: MERN Stack, Flutter, Python, Git, WebSockets, API Development
 - 📫 **Email**: [redwanshahriarshubho.1789@gmail.com](mailto:redwanshahriarshubho.1789@gmail.com)
 - ⚡ **Fun Fact**: When not coding, I enjoy exploring music and diving into tech blogs.
@@ -54,6 +55,14 @@ I’m **Redwan Shahriar Shubho** a Computer Science and Engineering student at *
 
 ---
 
+## 🏆 Achievements
+
+### Mobile Development
+- **Filters** - Tools and GitHub integration
+- **SaaS** - Software as a Service solutions
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center" style="margin: 20px 0; display: flex; flex-direction: column; gap: 20px;">
@@ -63,8 +72,6 @@ I’m **Redwan Shahriar Shubho** a Computer Science and Engineering student at *
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Languages" style="border-radius: 8px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
-
-
 
 </div>
 
