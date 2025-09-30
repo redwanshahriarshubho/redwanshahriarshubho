@@ -19,10 +19,7 @@ I’m **Redwan Shahriar Shubho**, a Computer Science and Engineering student at 
 - 🌟 **Core Competencies**: Artificial Intelligence, Full-Stack Development, Mobile Applications, System Architecture
 - 🌱 **Current Focus**: Flutter, Dart, Python, FastAPI, Cloud Infrastructure
 - 💬 **Expertise**: MERN Stack, Flutter, Python, Git, WebSockets, RESTful APIs
-- 📫 **Contact**: [redwanshahriarshubho.1789@gmail.com](mailto:redwanshahriarshubho.1789@gmail.com)
-- ⚡ **Beyond Coding**: Music enthusiast and tech blog contributor
 
----
 
 ## 💻 Tech Stack
 
