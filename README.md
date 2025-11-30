@@ -14,12 +14,11 @@
 ---
 
 ## 👋 About Me
-I’m **Redwan Shahriar Shubho**, a Computer Science and Engineering student at **North South University**, Dhaka, Bangladesh. I specialize in building scalable software solutions through **AI integration**, **full-stack development**, and **mobile application development**. My focus is on creating technology that addresses real-world challenges with innovation and efficiency.
+I'm **Redwan Shahriar Shubho**, a Computer Science and Engineering student at **North South University**, Dhaka, Bangladesh. I specialize in building scalable software solutions through **AI integration**, **full-stack development**, and **mobile application development**. My focus is on creating technology that addresses real-world challenges with innovation and efficiency.
 
 - 🌟 **Core Competencies**: Artificial Intelligence, Full-Stack Development, Mobile Applications, System Architecture
 - 🌱 **Current Focus**: Flutter, Dart, Python, FastAPI, Cloud Infrastructure
 - 💬 **Expertise**: MERN Stack, Flutter, Python, Git, WebSockets, RESTful APIs
-
 
 ## 💻 Tech Stack
 
@@ -57,19 +56,19 @@ I’m **Redwan Shahriar Shubho**, a Computer Science and Engineering student at 
 
 ---
 
-## 📊 GitHub Stats & Activity (2025)
-<div align="center" style="margin: 20px 0; display: flex; flex-direction: column; gap: 20px;">
+## 📊 GitHub Stats & Activity
+<div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800&include_all_commits=true&title_color=00ff9f&icon_color=00ff9f" alt="GitHub Stats" style="border-radius: 8px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800&include_all_commits=true&title_color=00ff9f&icon_color=00ff9f" alt="GitHub Stats" />
   
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redwanshahriarshubho&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=00ff9f&sideNums=00ff9f&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" style="border-radius: 8px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redwanshahriarshubho&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=00ff9f&sideNums=00ff9f&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=dracula&cache_seconds=1800&title_color=00ff9f" alt="Top Languages" style="border-radius: 8px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=dracula&cache_seconds=1800&title_color=00ff9f" alt="Top Languages" />
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redwanshahriarshubho&theme=dracula&bg_color=282a36&color=ffffff&line=00ff9f&point=00ff9f&area=true&hide_border=true" alt="GitHub Activity Graph" style="border-radius: 8px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redwanshahriarshubho&theme=dracula&bg_color=282a36&color=ffffff&line=00ff9f&point=00ff9f&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -80,42 +79,42 @@ I’m **Redwan Shahriar Shubho**, a Computer Science and Engineering student at 
 **Full-stack MERN application with real-time inventory management**
 - Tech Stack: React, Node.js, Express, MongoDB, Socket.io, Stripe API
 - Features: User authentication, product catalog, shopping cart, payment processing, admin dashboard
-- Status: Completed | [Live Demo](link) | [Repository](link)
+- Status: Completed | [Live Demo](https://example-ecommerce-demo.com) | [Repository](https://github.com/redwanshahriarshubho/ecommerce-platform)
 
 ### 📱 Fitness Tracker App
 **Cross-platform mobile application for health monitoring**
 - Tech Stack: Flutter, Dart, Firebase, HealthKit API
 - Features: Activity tracking, workout plans, progress visualization, social sharing
-- Status: In Development | [Repository](link)
+- Status: In Development | [Repository](https://github.com/redwanshahriarshubho/fitness-tracker)
 
 ### 🤖 AI Content Generator
 **Machine learning powered content creation tool**
 - Tech Stack: Python, FastAPI, OpenAI API, React, PostgreSQL
 - Features: Natural language processing, content templates, user customization
-- Status: Completed | [Repository](link)
+- Status: Completed | [Repository](https://github.com/redwanshahriarshubho/ai-content-generator)
 
 ---
 
 ## 🔗 Connect With Me
-<div align="left" style="display: flex; gap: 12px; margin: 20px 0;">
+<div align="left">
   <a href="https://www.linkedin.com/in/redwan-shahriar-shubho-799532240/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 4px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:redwanshahriarshubho.1789@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?logo=gmail&logoColor=white&style=for-the-badge" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 4px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/redwanshahriarshubho" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23121011?logo=github&logoColor=white&style=for-the-badge" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 4px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+    <img src="https://img.shields.io/badge/-GitHub-%23121011?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" style="transition: transform 0.3s, box-shadow 0.3s; border-radius: 4px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+  <a href="https://twitter.com/redwanshahriar" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <em>This README reflects my latest contributions and projects as of September 2025.</em>
+  <em>This README reflects my latest contributions and projects as of July 2023.</em>
   <br>
   <img src="https://komarev.com/ghpvc/?username=redwanshahriarshubho&style=for-the-badge&color=00ff9f" alt="Profile views" />
 </div>
