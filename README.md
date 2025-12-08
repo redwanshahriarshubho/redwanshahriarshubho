@@ -84,4 +84,53 @@ I build scalable software through **AI integration**, **full-stack development**
 
 | Project | Tech | Status | Demo | Code |
 |---------|------|--------|------|------|
-| **E-Commerce Platform** | MERN + Socket.io + Stripe | ✅ Released | [Live
+| **E-Commerce Platform** | MERN + Socket.io + Stripe | ✅ Released | [Live](https://redwan-ecommerce-demo.vercel.app) | [Repo](https://github.com/redwanshahriarshubho/ecommerce-platform) |
+| **Fitness Tracker** | Flutter + Firebase | 🚧 Beta | — | [Repo](https://github.com/redwanshahriarshubho/fitness-tracker) |
+| **AI Content Generator** | Python FastAPI + OpenAI + React | ✅ Released | [Try it](https://ai-content-redwan.vercel.app) | [Repo](https://github.com/redwanshahriarshubho/ai-content-generator) |
+
+---
+
+## 📈 My Development Journey
+
+&lt;div align="center"&gt;
+  &lt;img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/&gt;
+&lt;/div&gt;
+
+### 🌱 Learning
+- Advanced ML Algorithms  
+- Cloud Architecture Patterns  
+- Micro-services Design  
+- System Optimisation  
+
+### 🎯 Building
+- Scalable AI-powered apps  
+- Cross-platform mobile solutions  
+- Efficient backend systems  
+- User-centric frontends  
+
+---
+
+## 🔗 Connect With Me
+
+&lt;div align="left"&gt;
+  &lt;a href="https://linkedin.com/in/redwan-shahriar-shubho-799532240" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:redwanshahriarshubho.1789@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/redwanshahriarshubho" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://twitter.com/redwanshahriar" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+---
+
+&lt;div align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=redwanshahriarshubho&style=for-the-badge&color=00ff9f"/&gt;
+  &lt;p&gt;&lt;em&gt;Thanks for dropping by—let’s connect and build something amazing together!&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Last updated December 2025.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
