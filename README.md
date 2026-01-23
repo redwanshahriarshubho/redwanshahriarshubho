@@ -17,31 +17,54 @@
 
 I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **Full-Stack Development**. I bridge the gap between high-performance application development and rigorous testing frameworks, ensuring software is resilient, scalable, and user-centric.
 
-* 🔭 **Current Objective:** Actively seeking **SQA / Software Engineering** opportunities to contribute to enterprise-grade solutions.
+* 🔭 **Current Objective:** Actively seeking **SQA / Software Engineering** opportunities.
 * 🛡️ **Quality Mindset:** Expert in identifying edge cases, optimizing the STLC, and maintaining a 360-degree view of product health.
 * 🚀 **Track Record:** Successfully architected and deployed cross-platform mobile suites and full-stack e-commerce solutions.
 
 ---
 
-### 🛠️ Core Competencies
+### 💻 Skills & Technologies
 
-| **Quality Engineering** | **Software Development** |
-| :--- | :--- |
-| **Testing:** Manual, API (Postman), Regression, Smoke | **Languages:** Python, JavaScript, Dart, C++, SQL |
-| **Process:** STLC, SDLC, Bug Life Cycle, Agile/Scrum | **Frontend:** React.js, TailwindCSS, HTML5, CSS3 |
-| **Documentation:** Test Plans, Test Cases, Bug Reports | **Backend:** Node.js, Express, Firebase |
-| **Management:** Jira, Trello, Git/GitHub | **Mobile:** Flutter, React Native |
+<table align="center" width="100%">
+  <tr>
+    <td align="left" width="30%"><b>Quality Engineering</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/TestRail-3E8F40?style=for-the-badge&logo=testrail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Web Development</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Mobile Development</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=dart,flutter,react" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Languages & Tools</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=py,cpp,mysql,firebase,git,github,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🏆 Key Accomplishments (Completed Projects)
 
 #### 🛒 **Enterprise E-Commerce Platform**
-* Engineered a full-stack MERN application with real-time state management and secure transaction processing via Stripe.
-* **Tech:** `React` `Node.js` `MongoDB`
+* Engineered a full-stack MERN application with real-time state management and secure transaction processing.
+* **Tech:** `React` `Node.js` `MongoDB` `Stripe API`
 
 #### 📱 **Cross-Platform Health Suite**
-* Architected a high-performance mobile application for health metric tracking with real-time Firebase synchronization.
+* Architected a mobile application for health metric tracking with real-time database synchronization.
 * **Tech:** `Flutter` `Dart` `Firebase`
 
 #### 🛰️ **API Reliability Lab**
@@ -50,12 +73,10 @@ I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **F
 
 ---
 
-### 📊 Engineering Methodology & Impact
-
-
+### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=rank" height="175" alt="Lifetime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=rank,stars" height="175" alt="Lifetime Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Language Mix" />
 </div>
 
