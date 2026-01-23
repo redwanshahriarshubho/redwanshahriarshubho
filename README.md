@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=28D797&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Redwan+Shahriar;Full+Stack+Developer;SQA+Engineer;AI+%26+Mobile+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=28D797&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Redwan+Shahriar;Full+Stack+Developer;SQA+Engineer;Quality+Assurance+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Engineering Scalable Solutions with a Quality-First Mindset</h3>
+  <h3>🚀 Delivering High-Quality Software through Development & Precision Testing</h3>
   <p>Computer Science & Engineering Student @ North South University | Based in Dhaka, Bangladesh</p>
 </div>
 
@@ -23,43 +23,44 @@
 
 ## 👋 About Me
 
-I am a passionate **Full-Stack Developer** and **Aspiring SQA Engineer**. I bridge the gap between complex software architecture and rigorous quality assurance. My philosophy is simple: *"First, solve the problem. Then, write the code. Finally, ensure it's unbreakable."*
+I am a **Software Developer** with a strong foundation in **Quality Assurance**. I specialize in building functional applications and then rigorously testing them to ensure they meet industry standards. My approach combines the creativity of a developer with the analytical mindset of a tester.
 
-- 🔭 **Currently Working On:** Scalable E-commerce microservices & Flutter Health Apps.
-- 🧪 **QA Focus:** Mastering Selenium Automation, API Testing (Postman), and STLC.
-- 🌱 **Learning:** Advanced System Design, AWS Cloud Architecture, and LLM Integration.
-- ⚡ **Goal:** To deliver seamless, high-performance user experiences through clean code and robust testing.
+- 🔍 **Current Status:** Actively seeking **Internship** or **Entry-level SQA/Developer** roles.
+- 🧪 **QA Expertise:** Proficient in Manual Testing, STLC, and API validation using Postman.
+- 🛠️ **Dev Background:** Successfully delivered Full-Stack and Mobile applications (see Projects below).
+- ⚡ **Commitment:** I focus on writing maintainable code and providing clear, reproducible bug reports.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### **Development & Architecture**
+### **Development & Mobile**
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, Dart, JavaScript, TypeScript, C++, SQL |
-| **Frontend** | React.js, Next.js, TailwindCSS, HTML5/CSS3 |
-| **Backend** | Node.js, Express, FastAPI, Firebase |
+| **Languages** | Python, Dart, JavaScript, C++, Basic SQL |
+| **Frontend** | React.js, TailwindCSS, HTML5, CSS3 |
+| **Backend** | Node.js, Express, Firebase |
 | **Mobile** | Flutter, React Native |
-| **Cloud/DevOps** | AWS, Docker, Git, GitHub |
+| **Version Control** | Git, GitHub |
 
 ### **Quality Assurance & Management**
 | Domain | Skills & Tools |
 | :--- | :--- |
-| **Manual Testing** | SDLC, STLC, Bug Reporting, Test Case Design (TestRail) |
-| **API Testing** | Postman (CRUD validation, Schema Testing, Automation) |
-| **Management** | Jira (Agile/Scrum), Trello |
-| **Database Testing** | MySQL, PostgreSQL, MongoDB |
+| **Manual Testing** | SDLC, STLC, Bug Reporting, Test Case Design |
+| **API Testing** | Postman (Manual Collection, CRUD validation) |
+| **Project Management** | Jira (Agile/Scrum), Trello |
+| **Methodologies** | Black Box Testing, Regression, Smoke & Sanity Testing |
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Completed Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛒 E-Commerce Platform** | Full-stack MERN app with real-time inventory and Stripe integration. | `React` `Node.js` `MongoDB` |
-| **📱 Fitness Tracker** | Cross-platform mobile app for health monitoring and progress visualization. | `Flutter` `Dart` `Firebase` |
-| **🛰️ API Management Lab** | Comprehensive test suites for RESTful APIs focusing on CRUD & Schema. | `Postman` `JavaScript` |
+| **🛒 E-Commerce Solution** | A full-stack application featuring product management and secure checkout. | `React` `Node.js` `MongoDB` |
+| **📱 Health & Fitness App** | A cross-platform mobile application for tracking daily health metrics. | `Flutter` `Dart` `Firebase` |
+| **🤖 AI Content Tool** | A machine learning integration project for generating creative content templates. | `Python` `FastAPI` `OpenAI` |
+| **🛰️ API Testing Lab** | A dedicated repository for testing RESTful API endpoints and response validation. | `Postman` `Manual Testing` |
 
 ---
 
