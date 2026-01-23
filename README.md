@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>🚀 Engineering Scalable Solutions with a Quality-First Mindset</h3>
-  <p>Computer Science & Engineering Graduate @ North South University | Based in Dhaka, Bangladesh</p>
+  <p>Computer Science & Engineering Student @ North South University | Based in Dhaka, Bangladesh</p>
 </div>
 
 <p align="center">
@@ -23,44 +23,43 @@
 
 ## 👋 About Me
 
-I am a detail-oriented **Full-Stack Developer** and **SQA Engineer** dedicated to building reliable, user-centric applications. I specialize in bridging the gap between efficient development and rigorous quality assurance. My goal is to deliver high-performance software that is both scalable and "unbreakable."
+As a dedicated **Full-Stack Developer** and aspiring **Software Quality Assurance (SQA) Engineer**, I specialize in crafting robust, user-centric applications while ensuring exceptional quality through meticulous testing. My approach is guided by the principle: *"First, solve the problem. Then, write the code. Finally, ensure it's unbreakable."*
 
-- 💼 **Current Status:** Actively seeking opportunities in **Software Engineering (Full-Stack)** or **SQA/Test Automation**.
-- 🏗️ **Past Work:** Developed scalable E-commerce microservices and cross-platform health applications.
-- 🧪 **QA Focus:** Specializing in Selenium Automation, API Testing (Postman), and the STLC.
-- 🌱 **Learning:** Currently exploring Advanced System Design and Cloud-native architectures.
-- ⚡ **Philosophy:** "Quality is not an act, it is a habit."
+- 🔭 **Currently:** Exploring advanced AI integrations and seeking full-time opportunities in full-stack development or SQA roles to contribute to innovative teams.
+- 🧪 **Recent Focus:** Selenium automation, API testing with Postman, and end-to-end quality assurance workflows.
+- 🌱 **Learning:** System design principles, cloud fundamentals, and large language model (LLM) applications.
+- ⚡ **Goal:** Deliver seamless, high-performance experiences through clean, maintainable code and rigorous testing practices.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 ### **Development & Architecture**
 | Category | Tools & Technologies |
-| :--- | :--- |
+|----------|----------------------|
 | **Languages** | Python, Dart, JavaScript, C++, SQL |
 | **Frontend** | React.js, Next.js, TailwindCSS, HTML5/CSS3 |
 | **Backend** | Node.js, Express, FastAPI, Firebase |
 | **Mobile** | Flutter, React Native |
-| **Tools** | Git, GitHub, VS Code |
+| **Version Control** | Git, GitHub |
 
-### **Quality Assurance & Management**
+### **Quality Assurance & Testing**
 | Domain | Skills & Tools |
-| :--- | :--- |
+|--------|----------------|
 | **Manual Testing** | SDLC, STLC, Bug Reporting, Test Case Design (TestRail) |
-| **API Testing** | Postman (CRUD validation, Schema Testing, Scripting) |
-| **Management** | Jira (Agile/Scrum), Trello |
-| **Database** | MongoDB, Firebase |
+| **API Testing** | Postman (CRUD Validation, Schema Testing, Automation) |
+| **Project Management** | Jira (Agile/Scrum), Trello |
+| **Database Testing** | MongoDB |
 
 ---
 
 ## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🛒 E-Commerce Platform** | Full-stack MERN application featuring real-time inventory management and Stripe integration. | `React` `Node.js` `MongoDB` |
-| **📱 Fitness Tracker** | A cross-platform mobile health app for monitoring progress with real-time data visualization. | `Flutter` `Dart` `Firebase` |
-| **🛰️ API Management Lab** | A comprehensive test suite for RESTful APIs focusing on CRUD operations and Schema validation. | `Postman` `JavaScript` |
+|---------|-------------|------------|
+| **🛒 E-Commerce Platform** | A full-stack MERN application featuring real-time inventory management and secure Stripe payments for seamless online shopping. | `React` `Node.js` `MongoDB` |
+| **📱 Fitness Tracker** | A cross-platform mobile app enabling users to monitor health metrics, track workouts, and visualize progress with intuitive dashboards. | `Flutter` `Dart` `Firebase` |
+| **🛰️ API Management Lab** | Automated test suites for RESTful APIs, emphasizing CRUD operations, schema validation, and performance benchmarking. | `Postman` `JavaScript` |
 
 ---
 
@@ -80,5 +79,5 @@ I am a detail-oriented **Full-Stack Developer** and **SQA Engineer** dedicated t
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=redwanshahriarshubho&style=flat-square&color=28D797&label=Profile+Views" alt="Profile views" />
   <br />
-  <p><i>Building the future, one test case at a time.</i></p>
+  <p><i>"Quality is not an act, it is a habit."</i> — Aristotle</p>
 </div>
