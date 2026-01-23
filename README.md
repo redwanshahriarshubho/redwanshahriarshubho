@@ -1,24 +1,13 @@
-
-
-Here is the code block again. You can copy the text inside the box below and paste it directly into your GitHub `README.md` file.
-
-```markdown
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=28D797&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Redwan+Shahriar;Full+Stack+Developer;SQA+Engineer;AI+%26+Mobile+Enthusiast" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=28D797&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Redwan+Shahriar;Software+Engineer;SQA+Engineer;Quality+Assurance+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-
-  <h3>🚀 Engineering Scalable Solutions with a Quality-First Mindset</h3>
-
-  <p>Computer Science & Engineering Student @ North South University | Based in Dhaka, Bangladesh</p>
-
+  <h3>🚀 Engineering Robust Solutions with a Quality-First Mindset</h3>
+  <p>Computer Science & Engineering Student @ North South University | Dhaka, Bangladesh</p>
 </div>
 
 <p align="center">
-
   <a href="https://linkedin.com/in/redwan-shahriar-shubho-799532240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -28,60 +17,64 @@ Here is the code block again. You can copy the text inside the box below and pas
   <a href="mailto:redwanshahriarshubho.1789@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </p>
 
 ---
 
-## 👋 Professional Profile
+## 👋 Executive Summary
 
-I am a dedicated **Full-Stack Developer** and **Aspiring SQA Engineer** committed to bridging the gap between complex software architecture and rigorous quality assurance. My approach is grounded in solving problems efficiently, writing clean code, and ensuring system resilience.
+I am a **Software Developer** and **Quality Assurance Specialist** focused on the intersection of efficient development and rigorous testing protocols. I specialize in building functional, user-centric applications while maintaining a high standard for stability and bug-free deployments.
 
-- 🎓 **Academic Focus:** Computer Science & Engineering at North South University.
-- 🏆 **Key Deliverables:** Successfully deployed scalable E-commerce microservices and cross-platform Health applications.
-- 🧪 **QA Expertise:** Proficient in Selenium Automation, API Testing (Postman), and the Software Test Life Cycle (STLC).
-- 🚀 **Current Status:** **Actively seeking full-time opportunities** in Software Engineering or Quality Assurance.
+- 🔍 **Current Objective:** Actively seeking **Internship** or **Entry-level SQA/Software Engineering** opportunities to contribute to high-impact projects.
+- 🛠️ **Development Philosophy:** I prioritize clean, maintainable code followed by comprehensive testing cycles to ensure product resilience.
+- 🧪 **QA Specialization:** Experienced in Manual Testing, STLC documentation, and automated API validation using Postman.
+- 🎓 **Education:** Pursuing B.Sc. in Computer Science & Engineering at North South University.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### **Development & Architecture**
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, Dart, JavaScript, C++, SQL |
-| **Frontend** | React.js, Next.js, TailwindCSS, HTML5/CSS3 |
-| **Backend** | Node.js, Express, FastAPI, Firebase |
-| **Mobile** | Flutter, React Native |
-| **Version Control** | Git, GitHub |
-
-### **Quality Assurance & Management**
-
-| Domain | Skills & Tools |
-| :--- | :--- |
-| **Manual Testing** | SDLC, STLC, Bug Reporting, Test Case Design (TestRail) |
-| **API Testing** | Postman (CRUD validation, Schema Testing, Automation) |
-| **Management** | Jira (Agile/Scrum), Trello |
-| **Database Testing** | MongoDB (NoSQL validation) |
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Development & Mobile</h4>
+      <ul>
+        <li><b>Languages:</b> JavaScript, Python, Dart, C++, SQL (Basic)</li>
+        <li><b>Frontend:</b> React.js, TailwindCSS, HTML5, CSS3</li>
+        <li><b>Backend:</b> Node.js, Express, Firebase</li>
+        <li><b>Mobile:</b> Flutter, React Native</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧪 Quality Assurance</h4>
+      <ul>
+        <li><b>Manual Testing:</b> SDLC/STLC, Bug Reporting, Test Cases</li>
+        <li><b>API Testing:</b> Postman (CRUD, Schema, Collection Testing)</li>
+        <li><b>Management:</b> Jira (Agile/Scrum), Trello, Git/GitHub</li>
+        <li><b>Methodologies:</b> Regression, Smoke, Sanity, Integration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Completed Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛒 E-Commerce Platform** | Engineered a scalable full-stack MERN application with real-time inventory tracking and secure Stripe payment processing. | `React` `Node.js` `MongoDB` |
-| **📱 Fitness Tracker** | Developed a cross-platform mobile application for health monitoring, workout logging, and visualizing user progress. | `Flutter` `Dart` `Firebase` |
-| **🛰️ API Management Lab** | Designed comprehensive test suites for RESTful APIs, ensuring robust CRUD operations and schema validation. | `Postman` `JavaScript` |
+| **🛒 E-Commerce Solution** | End-to-end platform featuring product management, secure payment flows, and responsive UI. | `React` `Node.js` `MongoDB` |
+| **📱 Health Tracker** | Cross-platform mobile solution for tracking metrics and progress visualization. | `Flutter` `Dart` `Firebase` |
+| **🤖 AI Content Engine** | Integrated machine learning templates to streamline creative content generation workflows. | `Python` `FastAPI` `OpenAI` |
+| **🛰️ API Testing Suite** | Developed and executed comprehensive test plans for RESTful API validation and reliability. | `Postman` `QA Manual` |
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Engineering Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,rank" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,rank" height="175" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="languages graph" />
 </div>
 
 <div align="center">
@@ -91,10 +84,7 @@ I am a dedicated **Full-Stack Developer** and **Aspiring SQA Engineer** committe
 ---
 
 <div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=redwanshahriarshubho&style=flat-square&color=28D797&label=Profile+Views" alt="Profile views" />
   <br />
-  <p><i>"Quality is not an act, it is a habit."</i></p>
-
+  <p align="center"><i>"Quality is not an act, it is a habit."</i></p>
 </div>
-```
