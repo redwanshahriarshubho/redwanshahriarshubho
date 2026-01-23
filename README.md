@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=28D797&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Redwan+Shahriar;Full+Stack+Developer;SQA+Engineer;Quality+Assurance+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=28D797&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Redwan+Shahriar;Full+Stack+Developer;SQA+Engineer;AI+%26+Mobile+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Delivering High-Quality Software through Development & Precision Testing</h3>
-  <p>Computer Science & Engineering Student @ North South University | Based in Dhaka, Bangladesh</p>
+  <h3>🚀 Engineering Scalable Solutions with a Quality-First Mindset</h3>
+  <p>Computer Science & Engineering Graduate @ North South University | Based in Dhaka, Bangladesh</p>
 </div>
 
 <p align="center">
@@ -23,44 +23,44 @@
 
 ## 👋 About Me
 
-I am a **Software Developer** with a strong foundation in **Quality Assurance**. I specialize in building functional applications and then rigorously testing them to ensure they meet industry standards. My approach combines the creativity of a developer with the analytical mindset of a tester.
+I am a detail-oriented **Full-Stack Developer** and **SQA Engineer** dedicated to building reliable, user-centric applications. I specialize in bridging the gap between efficient development and rigorous quality assurance. My goal is to deliver high-performance software that is both scalable and "unbreakable."
 
-- 🔍 **Current Status:** Actively seeking **Internship** or **Entry-level SQA/Developer** roles.
-- 🧪 **QA Expertise:** Proficient in Manual Testing, STLC, and API validation using Postman.
-- 🛠️ **Dev Background:** Successfully delivered Full-Stack and Mobile applications (see Projects below).
-- ⚡ **Commitment:** I focus on writing maintainable code and providing clear, reproducible bug reports.
+- 💼 **Current Status:** Actively seeking opportunities in **Software Engineering (Full-Stack)** or **SQA/Test Automation**.
+- 🏗️ **Past Work:** Developed scalable E-commerce microservices and cross-platform health applications.
+- 🧪 **QA Focus:** Specializing in Selenium Automation, API Testing (Postman), and the STLC.
+- 🌱 **Learning:** Currently exploring Advanced System Design and Cloud-native architectures.
+- ⚡ **Philosophy:** "Quality is not an act, it is a habit."
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### **Development & Mobile**
+### **Development & Architecture**
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, Dart, JavaScript, C++, Basic SQL |
-| **Frontend** | React.js, TailwindCSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express, Firebase |
+| **Languages** | Python, Dart, JavaScript, C++, SQL |
+| **Frontend** | React.js, Next.js, TailwindCSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express, FastAPI, Firebase |
 | **Mobile** | Flutter, React Native |
-| **Version Control** | Git, GitHub |
+| **Tools** | Git, GitHub, VS Code |
 
 ### **Quality Assurance & Management**
 | Domain | Skills & Tools |
 | :--- | :--- |
-| **Manual Testing** | SDLC, STLC, Bug Reporting, Test Case Design |
-| **API Testing** | Postman (Manual Collection, CRUD validation) |
-| **Project Management** | Jira (Agile/Scrum), Trello |
-| **Methodologies** | Black Box Testing, Regression, Smoke & Sanity Testing |
+| **Manual Testing** | SDLC, STLC, Bug Reporting, Test Case Design (TestRail) |
+| **API Testing** | Postman (CRUD validation, Schema Testing, Scripting) |
+| **Management** | Jira (Agile/Scrum), Trello |
+| **Database** | MongoDB, Firebase |
 
 ---
 
-## 🏆 Completed Projects
+## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛒 E-Commerce Solution** | A full-stack application featuring product management and secure checkout. | `React` `Node.js` `MongoDB` |
-| **📱 Health & Fitness App** | A cross-platform mobile application for tracking daily health metrics. | `Flutter` `Dart` `Firebase` |
-| **🤖 AI Content Tool** | A machine learning integration project for generating creative content templates. | `Python` `FastAPI` `OpenAI` |
-| **🛰️ API Testing Lab** | A dedicated repository for testing RESTful API endpoints and response validation. | `Postman` `Manual Testing` |
+| **🛒 E-Commerce Platform** | Full-stack MERN application featuring real-time inventory management and Stripe integration. | `React` `Node.js` `MongoDB` |
+| **📱 Fitness Tracker** | A cross-platform mobile health app for monitoring progress with real-time data visualization. | `Flutter` `Dart` `Firebase` |
+| **🛰️ API Management Lab** | A comprehensive test suite for RESTful APIs focusing on CRUD operations and Schema validation. | `Postman` `JavaScript` |
 
 ---
 
@@ -80,5 +80,5 @@ I am a **Software Developer** with a strong foundation in **Quality Assurance**.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=redwanshahriarshubho&style=flat-square&color=28D797&label=Profile+Views" alt="Profile views" />
   <br />
-  <p><i>"Quality is not an act, it is a habit."</i></p>
+  <p><i>Building the future, one test case at a time.</i></p>
 </div>
