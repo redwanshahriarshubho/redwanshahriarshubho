@@ -50,9 +50,7 @@ I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **F
 
 ---
 
-### 📊 Engineering Impact & Activity
-
-
+### 📊 Engineering Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=rank" height="175" alt="Lifetime Stats" />
@@ -68,5 +66,5 @@ I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **F
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=redwanshahriarshubho&style=flat-square&color=28D797&label=Profile+Views" alt="Profile Views" />
   <br />
-  <p><i>"Quality is never an accident; it is always the result of intelligent effort."</i></p>
+  <p><strong><i>"Precision is the bridge between a requirement and a world-class solution."</i></strong></p>
 </div>
