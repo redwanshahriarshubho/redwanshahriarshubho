@@ -50,7 +50,9 @@ I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **F
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 Engineering Methodology & Impact
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=rank" height="175" alt="Lifetime Stats" />
