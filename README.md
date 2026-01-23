@@ -1,13 +1,24 @@
+
+
+Here is the code block again. You can copy the text inside the box below and paste it directly into your GitHub `README.md` file.
+
+```markdown
 <div align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=28D797&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Redwan+Shahriar;Full+Stack+Developer;SQA+Engineer;AI+%26+Mobile+Enthusiast" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
+
   <h3>🚀 Engineering Scalable Solutions with a Quality-First Mindset</h3>
+
   <p>Computer Science & Engineering Student @ North South University | Based in Dhaka, Bangladesh</p>
+
 </div>
 
 <p align="center">
+
   <a href="https://linkedin.com/in/redwan-shahriar-shubho-799532240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -17,49 +28,52 @@
   <a href="mailto:redwanshahriarshubho.1789@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Professional Profile
 
-As a dedicated **Full-Stack Developer** and aspiring **Software Quality Assurance (SQA) Engineer**, I specialize in crafting robust, user-centric applications while ensuring exceptional quality through meticulous testing. My approach is guided by the principle: *"First, solve the problem. Then, write the code. Finally, ensure it's unbreakable."*
+I am a dedicated **Full-Stack Developer** and **Aspiring SQA Engineer** committed to bridging the gap between complex software architecture and rigorous quality assurance. My approach is grounded in solving problems efficiently, writing clean code, and ensuring system resilience.
 
-- 🔭 **Currently:** Exploring advanced AI integrations and seeking full-time opportunities in full-stack development or SQA roles to contribute to innovative teams.
-- 🧪 **Recent Focus:** Selenium automation, API testing with Postman, and end-to-end quality assurance workflows.
-- 🌱 **Learning:** System design principles, cloud fundamentals, and large language model (LLM) applications.
-- ⚡ **Goal:** Deliver seamless, high-performance experiences through clean, maintainable code and rigorous testing practices.
+- 🎓 **Academic Focus:** Computer Science & Engineering at North South University.
+- 🏆 **Key Deliverables:** Successfully deployed scalable E-commerce microservices and cross-platform Health applications.
+- 🧪 **QA Expertise:** Proficient in Selenium Automation, API Testing (Postman), and the Software Test Life Cycle (STLC).
+- 🚀 **Current Status:** **Actively seeking full-time opportunities** in Software Engineering or Quality Assurance.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
 ### **Development & Architecture**
+
 | Category | Tools & Technologies |
-|----------|----------------------|
+| :--- | :--- |
 | **Languages** | Python, Dart, JavaScript, C++, SQL |
 | **Frontend** | React.js, Next.js, TailwindCSS, HTML5/CSS3 |
 | **Backend** | Node.js, Express, FastAPI, Firebase |
 | **Mobile** | Flutter, React Native |
 | **Version Control** | Git, GitHub |
 
-### **Quality Assurance & Testing**
+### **Quality Assurance & Management**
+
 | Domain | Skills & Tools |
-|--------|----------------|
+| :--- | :--- |
 | **Manual Testing** | SDLC, STLC, Bug Reporting, Test Case Design (TestRail) |
-| **API Testing** | Postman (CRUD Validation, Schema Testing, Automation) |
-| **Project Management** | Jira (Agile/Scrum), Trello |
-| **Database Testing** | MongoDB |
+| **API Testing** | Postman (CRUD validation, Schema Testing, Automation) |
+| **Management** | Jira (Agile/Scrum), Trello |
+| **Database Testing** | MongoDB (NoSQL validation) |
 
 ---
 
 ## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🛒 E-Commerce Platform** | A full-stack MERN application featuring real-time inventory management and secure Stripe payments for seamless online shopping. | `React` `Node.js` `MongoDB` |
-| **📱 Fitness Tracker** | A cross-platform mobile app enabling users to monitor health metrics, track workouts, and visualize progress with intuitive dashboards. | `Flutter` `Dart` `Firebase` |
-| **🛰️ API Management Lab** | Automated test suites for RESTful APIs, emphasizing CRUD operations, schema validation, and performance benchmarking. | `Postman` `JavaScript` |
+| :--- | :--- | :--- |
+| **🛒 E-Commerce Platform** | Engineered a scalable full-stack MERN application with real-time inventory tracking and secure Stripe payment processing. | `React` `Node.js` `MongoDB` |
+| **📱 Fitness Tracker** | Developed a cross-platform mobile application for health monitoring, workout logging, and visualizing user progress. | `Flutter` `Dart` `Firebase` |
+| **🛰️ API Management Lab** | Designed comprehensive test suites for RESTful APIs, ensuring robust CRUD operations and schema validation. | `Postman` `JavaScript` |
 
 ---
 
@@ -77,7 +91,10 @@ As a dedicated **Full-Stack Developer** and aspiring **Software Quality Assuranc
 ---
 
 <div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=redwanshahriarshubho&style=flat-square&color=28D797&label=Profile+Views" alt="Profile views" />
   <br />
-  <p><i>"Quality is not an act, it is a habit."</i> — Aristotle</p>
+  <p><i>"Quality is not an act, it is a habit."</i></p>
+
 </div>
+```
