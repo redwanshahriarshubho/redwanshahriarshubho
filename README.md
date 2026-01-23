@@ -66,7 +66,7 @@ I am a passionate **Full-Stack Developer** and **Aspiring SQA Engineer**. I brid
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,rank" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
 </div>
 
