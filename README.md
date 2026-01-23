@@ -9,20 +9,17 @@
   <a href="mailto:redwanshahriarshubho.1789@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/redwanshahriarshubho">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 ---
 
 ### 💡 Professional Profile
 
-I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **Full-Stack Development**. I focus on the synergy between building high-performance applications and implementing rigorous testing frameworks. I help teams deliver software that is not just functional, but resilient and scalable.
+I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **Full-Stack Development**. I bridge the gap between high-performance application development and rigorous testing frameworks, ensuring software is resilient, scalable, and user-centric.
 
-* 🔭 **Current Objective:** Actively pursuing **SQA / Software Engineering** roles where I can apply my testing expertise and development background.
-* 🛡️ **Quality Mindset:** Expert in identifying edge cases, optimizing the STLC, and ensuring seamless user experiences.
-* 🚀 **Track Record:** Successfully delivered cross-platform mobile apps and full-stack web solutions from concept to deployment.
+* 🔭 **Current Objective:** Actively seeking **SQA / Software Engineering** opportunities to contribute to enterprise-grade solutions.
+* 🛡️ **Quality Mindset:** Expert in identifying edge cases, optimizing the STLC, and maintaining a 360-degree view of product health.
+* 🚀 **Track Record:** Successfully architected and deployed cross-platform mobile suites and full-stack e-commerce solutions.
 
 ---
 
@@ -40,27 +37,25 @@ I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **F
 ### 🏆 Key Accomplishments (Completed Projects)
 
 #### 🛒 **Enterprise E-Commerce Platform**
-* Developed a full-stack MERN application featuring real-time state management and secure transaction processing.
-* **Tech:** `React` `Node.js` `MongoDB` `Stripe API`
+* Engineered a full-stack MERN application with real-time state management and secure transaction processing via Stripe.
+* **Tech:** `React` `Node.js` `MongoDB`
 
 #### 📱 **Cross-Platform Health Suite**
-* Architected a mobile application for health metric tracking with real-time database synchronization.
+* Architected a high-performance mobile application for health metric tracking with real-time Firebase synchronization.
 * **Tech:** `Flutter` `Dart` `Firebase`
 
-#### 🤖 **AI-Driven Content Generator**
-* Integrated NLP models to automate creative content workflows via a high-performance API.
-* **Tech:** `Python` `FastAPI` `OpenAI`
-
 #### 🛰️ **API Reliability Lab**
-* Designed a comprehensive testing repository for RESTful APIs, focusing on CRUD integrity and response validation.
+* Designed and executed comprehensive test suites for RESTful APIs, ensuring CRUD integrity and schema validation.
 * **Tech:** `Postman` `Manual Verification`
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 Engineering Impact & Activity
+
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,rank,stars" height="175" alt="Lifetime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=rank" height="175" alt="Lifetime Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Language Mix" />
 </div>
 
@@ -73,5 +68,5 @@ I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **F
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=redwanshahriarshubho&style=flat-square&color=28D797&label=Profile+Views" alt="Profile Views" />
   <br />
-  <p><em>"Quality is never an accident; it is always the result of intelligent effort."</em></p>
+  <p><i>"Quality is never an accident; it is always the result of intelligent effort."</i></p>
 </div>
