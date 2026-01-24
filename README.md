@@ -58,12 +58,13 @@ I am a **Software Engineer** specializing in **Quality Assurance (SQA)** and **F
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=rank,stars" height="175" alt="Lifetime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=rank,stars" height="175" alt="Lifetime Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Language Mix" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redwanshahriarshubho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=redwanshahriarshubho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br/>
 
