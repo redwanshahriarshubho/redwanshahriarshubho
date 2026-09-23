@@ -19,6 +19,15 @@ I'm a recent **Computer Science & Engineering graduate from North South Universi
 - 🤖 Exploring **AI, deep learning, and speech recognition** through academic and personal projects
 - 📈 Always learning, improving, and shipping better code
 
+### ⚡ Quick Facts
+
+- 🔭 **Currently working on:** Full-stack MERN projects and test automation frameworks
+- 🌱 **Currently learning:** Advanced Next.js, TypeScript, and AI integration in web apps
+- 👯 **Looking to collaborate on:** Open-source web apps, QA automation, and AI/ML projects
+- 💬 **Ask me about:** MERN stack, Next.js, FastAPI, manual & automated testing
+- 📫 **How to reach me:** [Email](mailto:redwanshahriarshubho.1789@gmail.com) · [LinkedIn](https://www.linkedin.com/in/t-m-redwan-shahriar-shubho-799532240/) · [X](https://x.com/imperfectking17)
+- 😄 **Pronouns:** he/him
+
 ---
 
 ## 🛠️ Tech Stack
@@ -72,8 +81,35 @@ I'm a recent **Computer Science & Engineering graduate from North South Universi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=redwanshahriarshubho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats (total commits, PRs, issues, stars)" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanshahriarshubho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="190"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=redwanshahriarshubho&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+</p>
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redwanshahriarshubho&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%"/>
+</p>
+
+### 📅 Contributions by Year
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea043/redwanshahriarshubho" alt="Contribution chart" width="100%"/>
+</p>
+
+| Year | Contributions |
+|---|---|
+| 2026 | [View on GitHub](https://github.com/redwanshahriarshubho?tab=overview&from=2026-01-01&to=2026-12-31) |
+| 2025 | [View on GitHub](https://github.com/redwanshahriarshubho?tab=overview&from=2025-01-01&to=2025-12-31) |
+| 2024 | [View on GitHub](https://github.com/redwanshahriarshubho?tab=overview&from=2024-01-01&to=2024-12-31) |
+| 2023 | [View on GitHub](https://github.com/redwanshahriarshubho?tab=overview&from=2023-01-01&to=2023-12-31) |
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=redwanshahriarshubho&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
