@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | SQA Automation Engineer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Fresh+CSE+Graduate+from+North+South+University;MERN+Stack+Developer;SQA+Automation+Engineer+%7C+Playwright+%26+Selenium;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=CSE+Graduate+from+North+South+University;MERN+Stack+Developer;SQA+Automation+Engineer+%7C+Playwright+%26+Selenium;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
